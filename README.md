@@ -7,6 +7,14 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 
 ---
 
+## 🎓 Formação & Educação
+
+- **Graduação em Engenharia de Bioprocessos** – Universidade Federal de Itajubá (UNIFEI)
+- **Especialização / Foco Contínuo:** Estatística Avançada, Modelagem Preditiva e Engenharia de Dados Cloud.
+- **Próximo foco:** Certificações Microsoft (DP-600 Fabric Analytics Engineer Associate | DP-700 Microsoft Fabric Data Engineer)
+
+---
+
 * 🌍 Baseado na região de **São José dos Campos / Taubaté - SP**
 * ✉️ Contato: [mykaqms@gmail.com](mailto:mykaqms@gmail.com)
 * 🧠 Foco atual de estudos: **Databricks | Apache Spark | Arquitetura Medallion | Microsoft Fabric**
