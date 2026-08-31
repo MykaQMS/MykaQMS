@@ -9,7 +9,7 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 
 ## 🏅 Certificações & Credenciais
 
-<a href="https://learn.microsoft.com/en-us/certifications/fabric-data-engineer-associate/">
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/mykaqms/C363992A2A37632C?sharingId=94CF3C2BE7F10CC7">
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="120" alt="Microsoft Certified: Associate Badge"/>
 </a>
 
