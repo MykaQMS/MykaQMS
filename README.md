@@ -49,6 +49,7 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/statsmodels-003366?style=for-the-badge&logo=python&logoColor=white)
 ![Polars](https://img.shields.io/badge/polars-5A5A5A?style=for-the-badge&logo=polars&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
