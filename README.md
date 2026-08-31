@@ -1,17 +1,26 @@
 Oi, sou o Mykael Querido  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-### Data Engineer ⚙️ | Market Intelligence Specialist 📈 | Data Full Stack enthusiast 🧑‍🔬
+### Data Engineer ⚙️ | DP-700 Certified | Data Full Stack enthusiast 🧑‍🔬
 
 Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelagem de dados eficiente e transformação de dados brutos em ativos estratégicos para o negócio. Nas horas vagas sou aspirante a cientista de dados, estudando e fazendo projetinhos de Machine Learning e estatística clássica.
 
 ---
 
+## 🏅 Certificações & Credenciais
+
+<a href="https://learn.microsoft.com/en-us/certifications/fabric-data-engineer-associate/">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="120" alt="Microsoft Certified: Associate Badge"/>
+</a>
+
+**Data:** Agosto/2026  
+[**URL da credencial**](https://learn.microsoft.com/api/credentials/share/en-gb/mykaqms/C363992A2A37632C?sharingId=94CF3C2BE7F10CC7)
+
 ## 🎓 Formação & Educação
 
 - **Graduação em Engenharia de Bioprocessos** – Universidade Federal de Itajubá (UNIFEI)
 - **Especialização / Foco Contínuo:** Estatística Avançada, Modelagem Preditiva e Engenharia de Dados Cloud.
-- **Próximo foco:** Certificações Microsoft (DP-600 Fabric Analytics Engineer Associate | DP-700 Microsoft Fabric Data Engineer)
+- **Próximo foco:** Certificações Databricks
 
 ---
 
