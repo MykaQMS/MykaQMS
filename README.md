@@ -29,7 +29,7 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 * 🧠 Foco atual de estudos: **Databricks | Apache Spark | Arquitetura Medallion | Microsoft Fabric**
 * 🚀 Data Science Enthusiast: Apaixonado por **Machine Learning, Estatística Avançada e Advanced Analytics**
 * 💬 Papo furado: Sou praticamente uma máquina, só funciono à base de combustível (aquele cafézinho de respeito ☕)
-* 💼 Conecte comigo no **LinkedIn**:
+* 💼 Conecte comigo no **LinkedIn**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykaelquerido/)
 
 ---
