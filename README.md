@@ -53,7 +53,7 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 ![Polars](https://img.shields.io/badge/polars-5A5A5A?style=for-the-badge&logo=polars&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Data Analytics % Dataviz
+### 📊 Data Analytics & Dataviz
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
