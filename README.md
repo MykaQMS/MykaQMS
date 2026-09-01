@@ -7,6 +7,13 @@ Sou Engenheiro de Dados focado na construção de pipelines escaláveis, modelag
 
 ---
 
+## 🌐 Portfólio
+
+Confira meus projetos e cases de dados no meu portfólio online:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://data-portfolio-mykael-querido.vercel.app/)
+
+---
+
 ## 🏅 Certificações & Credenciais
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/mykaqms/C363992A2A37632C?sharingId=94CF3C2BE7F10CC7">
